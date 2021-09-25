@@ -1,2 +1,2 @@
 # Disney-Clone
-Thiis is my disney+ clone 
+This is my disney+ clone 
